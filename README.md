@@ -1,7 +1,7 @@
 # Endless-Runner
 
 ## Nasıl Oynanır?
-* Amaç etraftaki engellere çarpmadan en yüksek skoru yapabilmektir.
+* Amaç, etraftaki engellere çarpmadan en yüksek skoru yapabilmektir.
 * WASD, Yön Tuşları ve Space tuşlarıyla oynanır.
 * Toplanabilir öğeler sırasıyla kitap, yıldız ve mıknatıstır.
 * Toplanan kitaplarla sırasıyla inşaatçı, öğretmen, avukat ve doktor karakterleri satın alınabilir.(Başlangıç karakteri öğrencidir.)
