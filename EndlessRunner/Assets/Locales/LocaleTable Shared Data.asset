@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: LocaleTable Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: LocaleTable
+  m_TableCollectionNameGuidString: 34ffb99f0ae071d4d80e606fa4f8da98
+  m_Entries:
+  - m_Id: 39926001664
+    m_Key: play
+    m_Metadata:
+      m_Items: []
+  - m_Id: 194163142656
+    m_Key: music
+    m_Metadata:
+      m_Items: []
+  - m_Id: 276488941568
+    m_Key: sound
+    m_Metadata:
+      m_Items: []
+  - m_Id: 491858063360
+    m_Key: lang
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10854108393472
+    m_Key: settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61075324563456
+    m_Key: highScore
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1895066717548544
+    m_Key: books
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3656467345731584
+    m_Key: buy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3656522412748800
+    m_Key: price
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3659882327076864
+    m_Key: back
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4002810933178368
+    m_Key: select
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4310257631653888
+    m_Key: playAgain
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4310517129048064
+    m_Key: gameOver
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4310771375173632
+    m_Key: score
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 1059589749102608408
+  references:
+    version: 2
+    RefIds:
+    - rid: 1059589749102608408
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1715538069277

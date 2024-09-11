@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: LocaleTable_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 34ffb99f0ae071d4d80e606fa4f8da98, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 39926001664
+    m_Localized: PLAY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 194163142656
+    m_Localized: MUSIC
+    m_Metadata:
+      m_Items: []
+  - m_Id: 276488941568
+    m_Localized: SOUND FX
+    m_Metadata:
+      m_Items: []
+  - m_Id: 491858063360
+    m_Localized: LANGUAGE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10854108393472
+    m_Localized: SETTINGS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61075324563456
+    m_Localized: 'HIGH SCORE :'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1895066717548544
+    m_Localized: 'BOOKS :'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3656467345731584
+    m_Localized: BUY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3656522412748800
+    m_Localized: 'PRICE :'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3659882327076864
+    m_Localized: BACK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4002810933178368
+    m_Localized: SELECT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4310257631653888
+    m_Localized: PLAY AGAIN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4310517129048064
+    m_Localized: GAME OVER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4310771375173632
+    m_Localized: SCORE
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
